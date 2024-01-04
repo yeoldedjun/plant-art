@@ -41,8 +41,3 @@ If you follow this readme you'll be able to use the electrical noise found in yo
 
 * Use `template.pde` as a base program for your artwork; while in the `draw` loop, you can get the value of the plant anytime through the variable `plantValue` (which is a float).
 
-# Sample artworks
-
-Here is what `sample_circle.pde` generates while attached to one of my Snake plants (Sansevieria Laurentii) - note that it isn't the same algorithm from the first picture; just a really quick sample one I threw together to publish publicly.
-
-
