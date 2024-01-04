@@ -1,9 +1,7 @@
 # plant-art
-Guide / tools for including plants and their electrical signals in your generative art using arduino + processing 3
+Updated guide / tools for including plants and their electrical signals in your generative art using arduino + processing 3
 
-If you follow this readme you'll be able to use the electrical noise found in your houseplants to help make generative art with the processing programming language, like the image below.
-
-![](https://github.com/robbiebarrat/plant-art/blob/master/images/0.png)
+If you follow this readme you'll be able to use the electrical noise found in your houseplants to help make generative art with the processing programming language.
 
 
 # Shopping List (~$45)
@@ -18,15 +16,11 @@ If you follow this readme you'll be able to use the electrical noise found in yo
 
 * [cable with a female 3.5mm end](https://www.amazon.com/AmazonBasics-3-5mm-Female-Stereo-Audio/dp/B01CNAUYBY/)
 
-* A house plant with big leaves (please try to pick your plant up locally; a lot of the times they don't ship plants right and they end up getting hurt :( - if you can't get anything locally, [this plant](https://www.amazon.com/Hirts-Superba-Robusta-Snake-Plant/dp/B008LCZFIG/) seems like a good bet.)
+*A plant
 
 # Setting up (Hardware)
 
-* Get the cable with the 3.5mm female end, and cut off the male end. Splice it and attach the two leads to the arduino's "A2" and "GND" ports.
-
-* You might want to cut two wires that fit nicely into the arduino, and splice one of these onto each lead, just so you can plug it into the arduino easier. The end result should look like this:
-
-![](https://github.com/robbiebarrat/plant-art/blob/master/images/1.png)
+* Get the cable with the 3.5mm female end, and cut off the male end. You should have three wires inside. Take the ground wire, splice it to a Arduino wire of the same color and plug it into the Arduino's 'GND' port. Then take the live/traveller wire and splice it into a brown Arduino wire then plug that into the Arduino's 'A2' port.
 
 * Next, plug a 3.5mm cable for the electrodes into the female 3.5mm port we just spliced in, and attach both of the snapping button ends to an electrode.
 
@@ -51,14 +45,4 @@ If you follow this readme you'll be able to use the electrical noise found in yo
 
 Here is what `sample_circle.pde` generates while attached to one of my Snake plants (Sansevieria Laurentii) - note that it isn't the same algorithm from the first picture; just a really quick sample one I threw together to publish publicly.
 
-![](https://github.com/robbiebarrat/plant-art/blob/master/images/2.png)
 
-# Coming soon!
-
-* More sample artworks
-
-* Use of a voltage booster for more accurate readings
-
-* Differences between plots during the night and during the day
-
-* More stuff dealing with pen-plotting (I use an axidraw to get my plots on paper)
