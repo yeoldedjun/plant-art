@@ -6,17 +6,17 @@ If you follow this readme you'll be able to use the electrical noise found in yo
 
 # Shopping List (~$45)
 
-* [arduino board for voltage](https://www.amazon.com/Elegoo-EL-CB-001-ATmega328P-ATMEGA16U2-Arduino/dp/B01EWOE0UU/) (if you already have one, i'm pretty sure any type with analog ports will work)
+* [arduino board for voltage](https://www.amazon.com/Elegoo-EL-CB-001-ATmega328P-ATMEGA16U2-Arduino/dp/B01EWOE0UU/) 
 
 * [wires that fit nicely into the arduino](https://www.amazon.com/Haitronic-Multicolored-Breadboard-Arduino-raspberry/dp/B01LZF1ZSZ/)
 
 * [electrodes](https://www.amazon.com/Pack-20-Electrode-Reusable-Self-Adhesive-Replacement/dp/B018OZVYFW/)
 
-* [3.5mm cables for the electrodes](https://www.amazon.com/Tens-Replacement-Lead-Wires-Connectors/dp/B01BOJPKIW/ref=pd_sim_328_8?_encoding=UTF8&pd_rd_i=B01BOJPKIW&pd_rd_r=6RVCFKX05YNW70YWFRTR&pd_rd_w=hNxUc&pd_rd_wg=xCMWN&refRID=6RVCFKX05YNW70YWFRTR&th=1) (Make sure the 3.5mm ones are selected!)
+* [3.5mm cables for the electrodes](https://www.amazon.com/Tens-Replacement-Lead-Wires-Connectors/dp/B01BOJPKIW/ref=pd_sim_328_8?_encoding=UTF8&pd_rd_i=B01BOJPKIW&pd_rd_r=6RVCFKX05YNW70YWFRTR&pd_rd_w=hNxUc&pd_rd_wg=xCMWN&refRID=6RVCFKX05YNW70YWFRTR&th=1)
 
 * [cable with a female 3.5mm end](https://www.amazon.com/AmazonBasics-3-5mm-Female-Stereo-Audio/dp/B01CNAUYBY/)
 
-*A plant
+*A plant :0
 
 # Setting up (Hardware)
 
