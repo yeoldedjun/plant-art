@@ -16,7 +16,7 @@ If you follow this readme you'll be able to use the electrical noise found in yo
 
 * [cable with a female 3.5mm end](https://www.amazon.com/AmazonBasics-3-5mm-Female-Stereo-Audio/dp/B01CNAUYBY/)
 
-*A plant :0
+*A plant
 
 # Setting up (Hardware)
 
