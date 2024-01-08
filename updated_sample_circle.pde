@@ -11,13 +11,13 @@ int        rayon   = 10;
 
 
 void setup() {
-  String whichPort = "/dev/ttyUSB0";
+  String whichPort = "COM5";
   myPort = new Serial(this, whichPort, 9600); 
   myPort.bufferUntil('\n');
   delay(3000); // we have to delay for a bit because the first values it gets are garbage for some reason
 
   // your setup code goes here
- size(600,600);
+ size(1000,1000);
   tabPoint = new PVector[nbPoint];
   float angle = TWO_PI/(nbPoint);
   for(int division=0;division<nbPoint;division++)
@@ -54,7 +54,7 @@ void draw(){
     move.normalize();
     move.mult(plantValue * 40);
     println(plantValue);
-    delay(50);
+    delay(50);                  
     tabPoint[division].x += move.x;
     tabPoint[division].y += move.y;
   }  
