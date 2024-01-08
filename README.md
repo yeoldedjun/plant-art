@@ -41,3 +41,6 @@ If you follow this readme you'll be able to use the electrical noise found in yo
 
 * Use `template.pde` as a base program for your artwork; while in the `draw` loop, you can get the value of the plant anytime through the variable `plantValue` (which is a float).
 
+  Shown below is a piece of art I generated from a ponytail palm
+  ![image-2024-01-08-155509185](https://github.com/yeoldedjun/plant-art/assets/155681750/28cd7167-f796-473e-8fc3-c8dcb68a60c3)
+
